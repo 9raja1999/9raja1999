@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Nest Js**
+- 🌱 I’m currently learning **.Net Core**
 
-- 💬 Ask me about **JavaScript, ReactJs, NodeJs, Next Js, Typescript, Express Js, Nest Js**
+- 💬 Ask me about **JavaScript, ReactJs, NodeJs, Next Js, Typescript, Express Js, Nest Js, SQL, MONGO, REDIS, DOCKER**
 
 - 📫 How to reach me **rajaehsan056@gmail.com**
 
